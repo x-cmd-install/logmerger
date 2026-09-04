@@ -7,7 +7,7 @@ about:
   head: d800fcb
   archived: false
   latestVersion: v0.13.0
-  collectedAt: 2026-09-04T19:42:20Z
+  collectedAt: 2026-09-04T20:54:20Z
 timeline:
   created: 2023-05-09
   lastCommit: 2025-11-15
@@ -80,6 +80,39 @@ total:
   openIssue: 4
   commit: 193
 ---
+path: /home/runner/.x-repo/github.com/ptmcg/logmerger
+collectedAt: 2026-09-04T20:54:21Z
+loc:
+  Python:
+    code: 2592
+    comments: 180
+    blanks: 455
+    files: 20
+  Toml:
+    code: 53
+    comments: 0
+    blanks: 8
+    files: 1
+  Ini:
+    code: 13
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 348
+    blanks: 141
+    files: 4
+  Text:
+    code: 0
+    comments: 1106
+    blanks: 0
+    files: 24
+total:
+  code: 2658
+  comments: 1634
+  blanks: 605
+  files: 50
 ---
 date: "2026-08-24"
 repo:
