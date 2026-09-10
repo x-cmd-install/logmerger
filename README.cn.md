@@ -4,7 +4,7 @@
 
 TUI utility to view multiple log files with merged timeline
 
-![logmerger](https://repo.x-cmd.io/logmerger.svg)
+![logmerger](https://repo.x-cmd.io/logmerger.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,13 @@ x install logmerger
 - **最新版本**: `v0.13.0` (2025-11-15)
 - **最近提交**: 2025-11-15
 - **Release 含资产**: 2 个
-- **发布时间**: 2025-11-15T11:38:56Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [logmerger-0.13.0-py3-none-any.whl](https://github.com/ptmcg/logmerger/releases/download/v0.13.0/logmerger-0.13.0-py3-none-any.whl) | 32.1 KiB | `other` |
+| [logmerger-0.13.0.tar.gz](https://github.com/ptmcg/logmerger/releases/download/v0.13.0/logmerger-0.13.0.tar.gz) | 34.0 KiB | `native/unknown` |
 
 ## 流行度
 
@@ -71,4 +77,4 @@ logmerger 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:06:40Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:50:52Z._

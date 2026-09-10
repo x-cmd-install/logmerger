@@ -22,7 +22,13 @@ x install logmerger
 - **Latest**: `v0.13.0` (2025-11-15)
 - **Last commit**: 2025-11-15
 - **Assets in release**: 2
-- **Published**: 2025-11-15T11:38:56Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [logmerger-0.13.0-py3-none-any.whl](https://github.com/ptmcg/logmerger/releases/download/v0.13.0/logmerger-0.13.0-py3-none-any.whl) | 32.1 KiB | `other` |
+| [logmerger-0.13.0.tar.gz](https://github.com/ptmcg/logmerger/releases/download/v0.13.0/logmerger-0.13.0.tar.gz) | 34.0 KiB | `native/unknown` |
 
 ## Popularity
 
@@ -67,8 +73,8 @@ Lowest-scoring checks:
 Install metadata for logmerger lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `logmerger` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/logmerger.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/logmerger.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:06:40Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:50:51Z._
