@@ -24,16 +24,6 @@ Total: **2,658** lines of code across **50** files in the top 5 languages.
 | Markdown | 0 | 348 | 141 | 4 |
 | Text | 0 | 1,106 | 0 | 24 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.1 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
-
 ## Source
 
 - **Upstream**: <https://github.com/ptmcg/logmerger>
@@ -57,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-14 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-19 | 3 | 2 | 0 | 3 | 0 | 39 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-15 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-20 | 3 | 2 | 0 | 3 | 0 | 39 |
 
 ## Release assets
 
@@ -80,4 +70,4 @@ Install metadata for logmerger lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:41:45Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:38:44Z._
